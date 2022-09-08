@@ -12,7 +12,9 @@ Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
 ** CEVAPLAR **
 
 **1. Aşama:** [2,27,16,22,18,6]
+
 **2. Aşama:** [2,6,16,22,18,27]
+
 **3. Aşama:** [2,6,16,18,22,27]
 
 O(n^2)
